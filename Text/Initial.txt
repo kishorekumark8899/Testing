@@ -1,1 +1,1 @@
-Testing Git Thanks.
+Testing and practicing Git Thanks.
