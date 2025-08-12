@@ -1,1 +1,2 @@
-Testing and Learning Git Thanks.
+Testing, Learning and Practicing Git Thanks.
+Version management with GitHub
